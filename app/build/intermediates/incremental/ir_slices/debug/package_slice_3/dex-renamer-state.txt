@@ -1,4 +1,4 @@
-#Wed Mar 28 17:34:26 BRT 2018
+#Wed Mar 28 17:43:32 BRT 2018
 base.0=/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex

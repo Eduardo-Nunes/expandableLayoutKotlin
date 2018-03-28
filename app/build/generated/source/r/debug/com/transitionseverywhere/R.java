@@ -46,15 +46,15 @@ public final class R {
         public static final int overlay_view = 0x7f07005a;
         public static final int parentMatrix = 0x7f07005d;
         public static final int right = 0x7f070062;
-        public static final int runningTransitions = 0x7f070065;
-        public static final int scene_layoutid_cache = 0x7f070066;
-        public static final int sequential = 0x7f070076;
-        public static final int together = 0x7f07008f;
-        public static final int top = 0x7f070090;
-        public static final int transitionAlpha = 0x7f070092;
-        public static final int transitionName = 0x7f070093;
-        public static final int transitionPosition = 0x7f070094;
-        public static final int transitionTransform = 0x7f070095;
+        public static final int runningTransitions = 0x7f070066;
+        public static final int scene_layoutid_cache = 0x7f070067;
+        public static final int sequential = 0x7f070077;
+        public static final int together = 0x7f070090;
+        public static final int top = 0x7f070091;
+        public static final int transitionAlpha = 0x7f070093;
+        public static final int transitionName = 0x7f070094;
+        public static final int transitionPosition = 0x7f070095;
+        public static final int transitionTransform = 0x7f070096;
     }
     public static final class styleable {
         public static final int[] ArcMotion = { 0x7f0200d7, 0x7f0200d9, 0x7f0200da };

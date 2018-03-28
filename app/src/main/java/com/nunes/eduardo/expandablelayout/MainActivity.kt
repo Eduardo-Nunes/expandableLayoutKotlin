@@ -2,6 +2,7 @@ package com.nunes.eduardo.expandablelayout
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -13,7 +14,17 @@ class MainActivity : AppCompatActivity() {
         text.text = getString(R.string.lorem_ipsilum)
 
         moreSynopsisButtonView.setOnClickListener {
-            expandableLayout.toggle {  }
+            moreSynopsisButtonView.visibility = INVISIBLE
+            expandableLayout.toggle {isExpanded ->
+                if (isExpanded){
+                    moreSynopsisButtonView.text = "menos"
+                }else{
+                    moreSynopsisButtonView.text = "mais"
+                }
+                moreSynopsisButtonView.visibility = VISIBLE
+
+            }
         }
+
     }
 }
