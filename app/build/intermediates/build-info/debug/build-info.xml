@@ -2,14 +2,13 @@
 <instant-run
     abi="x86"
     api-level="27"
-    build-mode="COLD"
+    build-mode="FULL"
     density="hdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.0"
-    timestamp="1522267651390"
-    token="-3377374908979695015"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1522269261856"
+    token="6011425300307123351"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -19,99 +18,94 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="101" />
     <task
         name="verifier"
-        duration="15" />
+        duration="88" />
 
     <artifact
-        location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1522260574583"
+        timestamp="1522269261856"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1522267231424"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1522267528720"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1522267651390"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>

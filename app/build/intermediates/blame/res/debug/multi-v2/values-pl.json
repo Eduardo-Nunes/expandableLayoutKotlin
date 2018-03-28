@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "outputFile": "/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
                     "source": "/Users/eduardonunes/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/74ebe86e582a85582d9c3fd617ba2137/res/values-pl/values-pl.xml",

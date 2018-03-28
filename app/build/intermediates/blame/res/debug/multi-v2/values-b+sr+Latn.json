@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/eduardonunes/Projetos/expandableLayoutKotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/eduardonunes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/1734e6a9c89184ef7ebcbbd2627c775f/res/values-b+sr+Latn/values-b+sr+Latn.xml",
