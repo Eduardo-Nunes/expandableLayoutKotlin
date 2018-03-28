@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Mar 28 15:09:42 BRT 2018
+1.base=/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/transforms/dexMerger/debug/12
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/eduardonunes/Projetos/ExpandableLayout/app/build/intermediates/transforms/dexMerger/debug/13
+1.path=classes.dex

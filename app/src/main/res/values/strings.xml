@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expandable Layout</string>
+    <string name="lorem_ipsilum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum quam ipsum, vehicula rutrum lectus iaculis in. In hac habitasse platea dictumst. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas ornare venenatis luctus. Cras et orci in ex hendrerit eleifend. Aliquam cursus, lectus vel luctus dignissim, orci augue vulputate elit, sed suscipit est sem eget nulla. Vestibulum faucibus quam nibh, ac aliquet libero tempor et. Vivamus sagittis rutrum erat, quis facilisis mauris dictum et. Maecenas eget nunc ac eros elementum venenatis vitae at magna. Nam ut congue dui, at mollis massa. Cras ipsum arcu, vestibulum vehicula faucibus at, rutrum et orci. Sed blandit tellus quis lobortis ultricies.</string>
+    <string name="mais">mais</string>
+</resources>
